@@ -1,5 +1,9 @@
 # Information Dashboard App
-A simple Dashboard UI using React, JavaScript and TailwindCSS to view information of various types.
+Purpose
+
+A simple Dashboard UI using React, JavaScript and TailwindCSS
+
+The primary purpose of this application is to view information of various types:
 
 - 🔍 Search for information
 
